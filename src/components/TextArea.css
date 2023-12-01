@@ -1,0 +1,25 @@
+.container .lower{
+    margin-left: 10px;
+}
+
+/* .darkmode{
+    height: 100%;
+    width: 100vw;
+    padding: 20px;
+    margin: 0;
+    box-sizing: border-box;
+} */
+#slice .to{
+    margin-left: 10px;
+}
+h4{
+    color: #646161;
+    position: absolute;
+    bottom: 0;
+    right: 2%;
+    font-size: 14px;
+  
+}
+div.mb-3{
+    position: relative;
+}
